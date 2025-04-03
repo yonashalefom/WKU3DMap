@@ -1,0 +1,1 @@
+This project was originally created in 2016 as a mini school project during my time at university. It is a fully coded-from-scratch 3D tour software designed to help new and existing students navigate the university, discover places, and move from one location to another. I recently uploaded the source code to make it available for others.
